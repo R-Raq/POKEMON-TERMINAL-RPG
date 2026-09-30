@@ -1,9 +1,9 @@
-- Pokémon Terminal RPG;
+Pokémon Terminal RPG;
 
 RPG de terminal desenvolvido em Python como teste de estudo de
 programação orientada a objetos.
 
-- Funcionalidades:
+Funcionalidades:
 
 - Escolha de Pokémon inicial
 - Sistema de batalhas
@@ -13,12 +13,12 @@ programação orientada a objetos.
 - Sistema de dinheiro
 - Salvamento e carregamento do progresso
 
--Estrutura:
+Estrutura:
 
 - `main.py` — fluxo principal do jogo
 - `pessoa.py` — jogadores, inimigos e batalhas
 - `pokemon.py` — Pokémon e seus tipos
 
--Como executar:
+Como executar:
 
 python main.py
