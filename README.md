@@ -18,7 +18,3 @@ Estrutura:
 - `main.py` — fluxo principal do jogo
 - `pessoa.py` — jogadores, inimigos e batalhas
 - `pokemon.py` — Pokémon e seus tipos
-
-Como executar:
-
-python main.py
